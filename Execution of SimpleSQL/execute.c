@@ -1,7 +1,8 @@
-/*execute.c*/
-
 //
-// Project: Execution of queries for SimpleSQL
+// Project: Result Set for SimpleSQL //
+// Prof. Joe Hummel
+// Northwestern University
+// CS 211, Winter 2023
 //
 
 #include <stdbool.h> // true, false
