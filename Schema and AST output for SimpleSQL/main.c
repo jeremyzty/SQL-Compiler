@@ -13,17 +13,7 @@
 #include "tokenqueue.h"
 #include "util.h"
 
-//
-// header comment with Name, etc.
-//
 
-// #include files
-
-// your functions
-
-// int main()
-
-// your functions
 
 char *ColumnTypeStr(int v) {
   switch (v) {
